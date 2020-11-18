@@ -1,0 +1,8 @@
+EPA City MPG Calculator (2008)
+---------------------------------
+Maximum mileage (city): 48
+	PRIUS
+Minimum mileage (city): 8
+	VEYRON
+	MURCIELAGO
+	MURCIELAGO ROADSTER
